@@ -1,6 +1,6 @@
 # 💳 Razorpay Clone (Frontend)
 
-A responsive **Razorpay website clone** built using **HTML & Tailwind CSS**, created while learning frontend development concepts from **Love Babbar** 🚀.
+A responsive **Razorpay website clone** built using **Tailwind CSS**, created while learning frontend development concepts from **Love Babbar** 🚀.
 
 This project focuses on UI design, responsiveness, and utility-first CSS using Tailwind.
 
@@ -25,7 +25,6 @@ https://frabjous-zabaione-90439e.netlify.app/
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
 - **Tailwind CSS**
 - **Vite** (for build & development)
 
